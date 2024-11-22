@@ -69,7 +69,7 @@ t.getFilsGauche().setFilsDroit(7)
 t.getFilsDroit().setFilsGauche(17)
 
 # Affichage initial
-print("Arbre initial (parcours en largeur) :", parcoursLargeur(t))
+print(f"Arbre initial (parcours en largeur) : {parcoursLargeur(t)}" )
 ```
 
 ### Suppression d'un nœud
