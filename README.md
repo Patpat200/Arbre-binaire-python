@@ -100,8 +100,8 @@ print("Arbre après suppression de 20 :", parcoursLargeur(t))
 ---
 
 ## **Auteurs**
-- **Nom 1** : Gestion de la logique de suppression et des parcours.  
-- **Nom 2** : Gestion de l'arbre, implémentation des fonctions d'insertion et de recherche.  
+- **Balqis** : Gestion de la logique de suppression et des parcours.  
+- **Adil** : Gestion de l'arbre, implémentation des fonctions pour que tout fonctionne.  
 
 ---
 
