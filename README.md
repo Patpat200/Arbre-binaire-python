@@ -31,7 +31,7 @@ L'arbre permet :
 2. **`suppression(T, h)`**  
    Supprime un nœud avec la valeur spécifiée dans l'arbre binaire de recherche (h).
 
-3. **`parcoursLargeur(T)`**  
+3. **`Parcours_en_largeur(T)`**  
    Affiche l'arbre niveau par niveau à l'aide d'un parcours en largeur.
 
 ---
@@ -69,7 +69,7 @@ t.getFilsGauche().setFilsDroit(7)
 t.getFilsDroit().setFilsGauche(17)
 
 # Affichage initial
-print(f"Arbre initial (parcours en largeur) : {parcoursLargeur(t)}" )
+print(f"Arbre initial (parcours en largeur) : {Parcours_en_largeur(t)}" )
 ```
 
 ### Suppression d'un nœud
@@ -78,7 +78,7 @@ print(f"Arbre initial (parcours en largeur) : {parcoursLargeur(t)}" )
 suppression(t, 20)
 
 # Affichage après suppression
-print("Arbre après suppression de 20 :", parcoursLargeur(t))
+print(f"Arbre après suppression de 20 : {Parcours_en_largeur(t)} ")
 ```
 
 ---
