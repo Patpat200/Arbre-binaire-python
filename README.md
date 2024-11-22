@@ -108,6 +108,4 @@ print("Arbre après suppression de 20 :", parcoursLargeur(t))
 ## **License**
 Ce projet est sous licence MIT. Vous pouvez le modifier et l'utiliser librement à des fins éducatives ou personnelles.
 
---- 
 
-Vous pouvez personnaliser le README en ajoutant vos noms, une introduction spécifique ou en modifiant les sections si nécessaire.
