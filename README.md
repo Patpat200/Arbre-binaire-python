@@ -1,6 +1,4 @@
-Voici un exemple de **README.md** que vous pouvez utiliser pour votre projet :  
 
----
 
 # **Projet : Suppression dans un Arbre Binaire de Recherche**
 
